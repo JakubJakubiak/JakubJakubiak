@@ -6,7 +6,7 @@ my app
 
 https://play.google.com/store/apps/details?id=inu.night.qizelogo
 
-![photo]([https://user-images.githubusercontent.com/34916730/87888249-f91c3000-ca2b-11ea-82b9-456ce838f444.png](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw)
+![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw)
 
 
 
