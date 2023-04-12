@@ -3,7 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubJakubiak&show_icons=true&theme=transparent)
 
-https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak-hart-landolt
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak-hart-landolt)
+
 my app
 
 https://play.google.com/store/apps/details?id=inu.night.qizelogo
