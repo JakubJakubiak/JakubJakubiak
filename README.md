@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![photo](https://user-images.githubusercontent.com/34916730/87888249-f91c3000-ca2b-11ea-82b9-456ce838f444.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JakubJakubiak&theme=dark)](https://git.io/streak-stats)
 
 my app
 
