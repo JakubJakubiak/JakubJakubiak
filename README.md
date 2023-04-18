@@ -14,8 +14,8 @@ my app
 Multimind: Chatbot Assistant
 https://play.google.com/store/apps/details?id=com.night.multimindbot
 
-![photo](https://play-lh.googleusercontent.com/GxiUN9ZPG30L1glGxCtWW-my3rsAFvDcSdDkXyHM7ajaywj7ypcfV3hYsqZDkjDQfFo=w720-h560-rw)
-![photo](https://play-lh.googleusercontent.com/i7GFwrmjyCpQm54fTI2-Ie8yZpROSLSyeZN-MPSP2mMzI1KO-_5kcplPlZ5GRg_j6Do=w720-h560-rw)
+![photo](https://play-lh.googleusercontent.com/-WZofHSZ1X-CON8g-ZAOagOrStGFWACxdmqpj1xlo8bTIpJmd1TiUO5PSkgkLBkWZFfU=w720-h560-rw)
+![photo](https://play-lh.googleusercontent.com/9FSvr1BEY8WrSr3lcj-qc8nPhkLR67V5jG8R9PsWP_cooJHnn0DVzXsACbJvU_E_rUo=w720-h560-rw)
 <!-- ![photo](https://play-lh.googleusercontent.com/Cnm-XsgJ__v7IRytwbJ12DG55WKw9EtKi50vA_Kv69OKzk4GXO-ZLdrD5M6fRHTW_bs=w720-h560-rw) -->
 
 
