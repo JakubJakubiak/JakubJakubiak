@@ -26,9 +26,9 @@
 
 
 
-<h1><br/>
+<h2><br/>
 <a href="https://play.google.com/store/apps/details?id=com.night.multimindbot">Link</a>
-</h1>
+</h2>
 <b>MyMultimind: Chat AI Bot</b>
 
 https://play.google.com/store/apps/details?id=com.night.multimindbot
@@ -37,9 +37,9 @@ https://play.google.com/store/apps/details?id=com.night.multimindbot
 ![photo](https://play-lh.googleusercontent.com/9FSvr1BEY8WrSr3lcj-qc8nPhkLR67V5jG8R9PsWP_cooJHnn0DVzXsACbJvU_E_rUo=w720-h560-rw)
 <!-- ![photo](https://play-lh.googleusercontent.com/Cnm-XsgJ__v7IRytwbJ12DG55WKw9EtKi50vA_Kv69OKzk4GXO-ZLdrD5M6fRHTW_bs=w720-h560-rw) -->
 
-<h1>
+<h3>
 <b>More projects</b>
-</h1>
+</h3>
 
 https://github.com/JakubJakubiak/Programing_Story
 <!--
