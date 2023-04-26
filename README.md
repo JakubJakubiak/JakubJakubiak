@@ -15,9 +15,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)
 <h2>💻 My app:</h2>
 
+<img src="https://raw.githubusercontent.com/JakubJakubiak/jsonList/main/images/emojibest_com_AnimatedSticker.gif"
+
+width="500">
+
 ![Anurag's GitHub stats](https://raw.githubusercontent.com/JakubJakubiak/jsonList/main/images/emojibest_com_AnimatedSticker.gif)
-
-
 <!-- https://play.google.com/store/apps/details?id=inu.night.qizelogo -->
 
 <!-- ![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw) -->
