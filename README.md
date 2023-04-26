@@ -15,9 +15,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)
 <h2>💻 My app:</h2>
 
+<a href="https://github.com/JakubJakubiak">
 <img src="https://raw.githubusercontent.com/JakubJakubiak/jsonList/main/images/emojibest_com_AnimatedSticker.gif"
-
-width="500">
+width="500">/>
 
 ![Anurag's GitHub stats](https://raw.githubusercontent.com/JakubJakubiak/jsonList/main/images/emojibest_com_AnimatedSticker.gif)
 <!-- https://play.google.com/store/apps/details?id=inu.night.qizelogo -->
