@@ -38,7 +38,7 @@ https://play.google.com/store/apps/details?id=com.night.multimindbot
 <!-- ![photo](https://play-lh.googleusercontent.com/Cnm-XsgJ__v7IRytwbJ12DG55WKw9EtKi50vA_Kv69OKzk4GXO-ZLdrD5M6fRHTW_bs=w720-h560-rw) -->
 
 <b>More projects</b>
-
+https://github.com/JakubJakubiak/Programing_Story
 <!--
 **JakubJakubiak/JakubJakubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>Hi, I'm Jakub <br/>
