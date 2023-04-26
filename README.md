@@ -3,8 +3,18 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubJakubiak&show_icons=true&theme=transparent) -->
 
+<h1>Hi, I'm Jakub <br/>
+<a href="https://github.com/JakubJakubiak">Programmer</a>,
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Flutter</a>
+</a></h1>
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)
-<b>My app</b>
+<h2>👨‍💻 >My app:</h2>
+
 
 <!-- https://play.google.com/store/apps/details?id=inu.night.qizelogo -->
 
