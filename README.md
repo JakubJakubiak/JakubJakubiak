@@ -23,7 +23,13 @@
 <!-- ![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw) -->
 
 <!-- ![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w560-h440-rw) -->
-<h2>MyMultimind: Chat AI Bot</h2>
+<b>MyMultimind: Chat AI Bot</b>
+
+
+<h1><br/>
+<a href="https://play.google.com/store/apps/details?id=com.night.multimindbot">Link</a>
+</h1>
+
 https://play.google.com/store/apps/details?id=com.night.multimindbot
 
 ![photo](https://play-lh.googleusercontent.com/-WZofHSZ1X-CON8g-ZAOagOrStGFWACxdmqpj1xlo8bTIpJmd1TiUO5PSkgkLBkWZFfU=w720-h560-rw)
@@ -34,8 +40,9 @@ https://play.google.com/store/apps/details?id=com.night.multimindbot
 
 <!--
 **JakubJakubiak/JakubJakubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://play.google.com/store/apps/details?id=inu.night.qizelogo
+<h1>Hi, I'm Jakub <br/>
+<a href="https://play.google.com/store/apps/details?id=inu.night.qizelogo">APK</a>,
+</a></h1>
 
 
 ![photo]([https://user-images.githubusercontent.com/34916730/87888249-f91c3000-ca2b-11ea-82b9-456ce838f444.png](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw)
