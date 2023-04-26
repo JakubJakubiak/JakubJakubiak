@@ -23,12 +23,13 @@
 <!-- ![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w2560-h1440-rw) -->
 
 <!-- ![photo](https://play-lh.googleusercontent.com/G6syde95yo0-gbNl-nX51K_TW-JRjTgIHCEj2WVA73vleSFSqQblAUPC-CShtrR5IA=w560-h440-rw) -->
-<b>MyMultimind: Chat AI Bot</b>
+
 
 
 <h1><br/>
 <a href="https://play.google.com/store/apps/details?id=com.night.multimindbot">Link</a>
 </h1>
+<b>MyMultimind: Chat AI Bot</b>
 
 https://play.google.com/store/apps/details?id=com.night.multimindbot
 
