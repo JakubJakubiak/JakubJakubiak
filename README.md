@@ -28,7 +28,7 @@ https://play.google.com/store/apps/details?id=com.night.multimindbot
 <b>Human or Ai</b>
 <!-- <b>Human or Ai</b> -->
 https://play.google.com/store/apps/details?id=inu.night.humanAI
-
+![photo](https://raw.githubusercontent.com/JakubJakubiak/Programing_Story/main/png/Human_or_Ai_success.png)
 ![photo](https://play-lh.googleusercontent.com/1_pIdn7seSMs1cliQVh6t69AGAT7xJxYWGOeH54x1zKfSz8snSyZmN43CNDuXbh-RjjH=w720-h560-rw)
 ![photo](https://play-lh.googleusercontent.com/VolEnn3CKhDGTmqWvgxerkRGEtLJEjuNisPdk_QAZyKPjWJYNCAi_xv6L6QVJ4HaDR0=w720-h560-rw)
 <h3>
