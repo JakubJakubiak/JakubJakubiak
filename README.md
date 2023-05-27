@@ -36,6 +36,12 @@ https://play.google.com/store/apps/details?id=inu.night.humanAI</b>
 <b>More projects</b>
 </h3>
 
+
+
+<h2>
+<a href="https://jakub-jakaubiak-portfolio-inu.vercel.app/resume">Portfolio</a>
+</h2>
+
 https://github.com/JakubJakubiak/Programing_Story
 <!--
 **JakubJakubiak/JakubJakubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
