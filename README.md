@@ -39,7 +39,7 @@ https://play.google.com/store/apps/details?id=inu.night.humanAI</b>
 
 
 <h2>
-<a href="https://jakub-jakaubiak-portfolio-inu.vercel.app/resume">Portfolio</a>
+<a href="https://jakub-jakaubiak-portfolio-inu.vercel.app">Portfolio</a>
 </h2>
 
 https://github.com/JakubJakubiak/Programing_Story
