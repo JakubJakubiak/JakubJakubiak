@@ -44,6 +44,7 @@ https://play.google.com/store/apps/details?id=inu.night.humanAI</b>
 </h2>
 
 Web:
+
 https://jakub-jakaubiak-portfolio-inu.vercel.app
 
 <h2>
