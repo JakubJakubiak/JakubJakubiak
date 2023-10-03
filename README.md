@@ -7,13 +7,17 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)
+
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]
+
+
 <h2>💻 My app:</h2>
-
-
-
 <!-- ![Anurag's GitHub stats](https://raw.githubusercontent.com/JakubJakubiak/jsonList/main/images/emojibest_com_AnimatedSticker.gif) -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
+
 
 <h2><br/>
 <a href="https://play.google.com/store/apps/details?id=com.night.multimindbot">Link</a>
