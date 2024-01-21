@@ -5,8 +5,8 @@
 </a></h1>
 
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)
 
 
 #### Top Technologies
