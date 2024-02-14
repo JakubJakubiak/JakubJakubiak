@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi, I'm Jakub <br/>
 <a href="https://github.com/JakubJakubiak">Programmer</a>,
-<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Flutter</a>
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">React and Flutter</a>
 </a></h1>
 
 
