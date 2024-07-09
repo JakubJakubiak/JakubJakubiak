@@ -66,11 +66,14 @@ Web:
 
 https://jakub-jakaubiak-portfolio-inu.vercel.app
 
+<!-- !
 <h2>
 <a href="https://github.com/JakubJakubiak/Programing_Story">Programing_Story</a>
 </h2>
 
 https://github.com/JakubJakubiak/Programing_Story
+ -->
+
 <!--
 **JakubJakubiak/JakubJakubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>Hi, I'm Jakub <br/>
