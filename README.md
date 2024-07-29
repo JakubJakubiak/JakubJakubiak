@@ -54,6 +54,12 @@ https://play.google.com/store/apps/details?id=inu.night.humanAI</b>
 [https://play.google.com/store/apps/details?id=inu.night.humanAI](https://play.google.com/store/apps/details?id=com.inu.hashtaggenerator)</b>
 
 
+<b>Plant Identifier: AI Scanner</b>
+
+[https://play.google.com/store/apps/details?id=com.inu.plantsai](https://play.google.com/store/apps/details?id=com.inu.plantsai)</b>
+
+
+
 
 
 <!-- !
