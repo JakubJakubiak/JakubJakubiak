@@ -98,7 +98,7 @@ https://play.google.com/store/apps/details?id=inu.night.humanAI</b>
 
 Web:
 
-https://jakub-jakaubiak-portfolio-inu.vercel.app
+https://portfolio.inudev.pl
 
 <!-- !
 <h2>
