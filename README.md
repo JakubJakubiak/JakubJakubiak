@@ -46,8 +46,7 @@
   <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify" />
 </p>
 
-
-```
+<!-- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,raspberrypi,replit,vscode" />
@@ -66,7 +65,7 @@
   </a>
 </p>
 
-
+-->
 <!--!
 <img align="left" alt="Spring" width="26px" src="https://github.com/user-attachments/assets/f570e08e-e7f6-4a03-bcb7-fb9531800a1d" />
 -->
