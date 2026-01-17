@@ -56,6 +56,7 @@
 <p align="center">
   <a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" /></a>
   <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://pnpm.io" title="Pnpm"><img src="https://skillicons.dev/icons?i=pnpm" /></a>
 </p>
 
 <p align="center">
