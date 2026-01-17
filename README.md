@@ -40,6 +40,7 @@
 
 <p align="center">
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://pytorch.org" title="Pytorch"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
