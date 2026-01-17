@@ -26,8 +26,6 @@
 
 
 
-
-### 🧰 Tools & Platforms
 <p align="center">
   <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
@@ -41,7 +39,7 @@
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
 </p>
 
-### 💻 Languages & Frameworks
+
 <p align="center">
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
@@ -54,13 +52,13 @@
   <a href="https://bevyengine.org" title="Bevy Engine"><img src="https://skillicons.dev/icons?i=bevy" /></a>
 </p>
 
-### 🎨 Frontend & Build Tools
+
 <p align="center">
   <a href="https://vitejs.dev" title="Vite – Build Tool"><img src="https://skillicons.dev/icons?i=vite" /></a>
   <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 </p>
 
-### 🗄️ Backend, Databases & Cloud
+
 <p align="center">
   <a href="https://supabase.com" title="Supabase – Backend as a Service"><img src="https://skillicons.dev/icons?i=supabase" /></a>
   <a href="https://firebase.google.com" title="Firebase – BaaS"><img src="https://skillicons.dev/icons?i=firebase" /></a>
