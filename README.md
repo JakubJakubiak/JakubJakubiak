@@ -43,7 +43,7 @@
 
 ### 🗄️ Backend, Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify,vercel" />
 </p>
 
 <!-- 
