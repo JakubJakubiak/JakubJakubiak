@@ -25,8 +25,29 @@
 <img align="left" alt="Flutter" width="26px" src="https://github.com/user-attachments/assets/1253ac20-c65c-4f24-adbf-6ac7c1e24cb1" /> -->
 
 
-### 🧰 Tools & Platforms <p align="center"> <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,linux,raspberrypi,ipfs,replit,vscode,webstorm" /> </p> ### 💻 Languages & Frameworks <p align="center"> <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,flutter,electron,tauri,bevy" /> </p> ### 🎨 Frontend & Build Tools <p align="center"> <img src="https://skillicons.dev/icons?i=vite,tailwind" /> </p> ### 🗄️ Backend, Databases & Cloud <p align="center"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify" /> </p>
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,linux,raspberrypi,ipfs,replit,vscode,webstorm" />
+</p>
+
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,flutter,electron,tauri,bevy" />
+</p>
+
+### 🎨 Frontend & Build Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,tailwind" />
+</p>
+
+### 🗄️ Backend, Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify" />
+</p>
+
+
+```
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,raspberrypi,replit,vscode" />
