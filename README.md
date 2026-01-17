@@ -32,10 +32,12 @@
   <!-- <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> -->
   <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://www.raspberrypi.com" title="Raspberry Pi – SBC Platform"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+  <a href="https://www.apple.com" title="Apple"><img src="https://skillicons.dev/icons?i=apple" /></a>
   <a href="https://ipfs.tech" title="IPFS – Distributed File System"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
   <a href="https://replit.com" title="Replit – Cloud IDE"><img src="https://skillicons.dev/icons?i=replit" /></a>
   <a href="https://code.visualstudio.com" title="VS Code – Code Editor"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+  <a href="https://developer.android.com/" title="Androidstudio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 </p>
 
 <p align="center">
