@@ -26,34 +26,20 @@
 
 
 
-
-<style>
-.tech-icons img {
-  border-radius: 8px;
-  transition: border 0.2s ease, transform 0.2s ease;
-}
-.tech-icons a:hover img {
-  border: 2px solid #58a6ff;
-  transform: scale(1.08);
-}
-</style>
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark&hover=true" />
-
-<p align="center" class="tech-icons">
-  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://bitbucket.org" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
-  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://kubernetes.io" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.raspberrypi.com" title="Raspberry Pi"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
-  <a href="https://ipfs.tech" title="IPFS"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
-  <a href="https://replit.com" title="Replit"><img src="https://skillicons.dev/icons?i=replit" /></a>
-  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.jetbrains.com/webstorm" title="WebStorm"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+<p align="center">
+  <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
+  <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.raspberrypi.com" title="Raspberry Pi – SBC Platform"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+  <a href="https://ipfs.tech" title="IPFS – Distributed File System"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
+  <a href="https://replit.com" title="Replit – Cloud IDE"><img src="https://skillicons.dev/icons?i=replit" /></a>
+  <a href="https://code.visualstudio.com" title="VS Code – Code Editor"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
 </p>
 
-<p align="center" class="tech-icons">
+<p align="center">
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
@@ -62,21 +48,23 @@
   <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" /></a>
   <a href="https://www.electronjs.org" title="Electron"><img src="https://skillicons.dev/icons?i=electron" /></a>
   <a href="https://tauri.app" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" /></a>
-  <a href="https://bevyengine.org" title="Bevy"><img src="https://skillicons.dev/icons?i=bevy" /></a>
+  <a href="https://bevyengine.org" title="Bevy Engine"><img src="https://skillicons.dev/icons?i=bevy" /></a>
 </p>
 
-<p align="center" class="tech-icons">
+<p align="center">
   <a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" /></a>
   <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 </p>
 
-<p align="center" class="tech-icons">
+<p align="center">
   <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" /></a>
   <a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://www.netlify.com" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" /></a>
   <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
+
+
 
 
 
