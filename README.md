@@ -19,11 +19,13 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+ 
 <img align="left" alt="Node.js" width="26px" src="https://github.com/user-attachments/assets/d66088da-47a7-43ea-86f5-0c04d75b9e0e" />
 
 <img align="left" alt="Flutter" width="26px" src="https://github.com/user-attachments/assets/1253ac20-c65c-4f24-adbf-6ac7c1e24cb1" /> -->
 
+
+### 🧰 Tools & Platforms <p align="center"> <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,linux,raspberrypi,ipfs,replit,vscode,webstorm" /> </p> ### 💻 Languages & Frameworks <p align="center"> <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,flutter,electron,tauri,bevy" /> </p> ### 🎨 Frontend & Build Tools <p align="center"> <img src="https://skillicons.dev/icons?i=vite,tailwind" /> </p> ### 🗄️ Backend, Databases & Cloud <p align="center"> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify" /> </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
