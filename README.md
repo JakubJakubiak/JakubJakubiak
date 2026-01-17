@@ -29,7 +29,7 @@
   <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
   <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <!-- <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> -->
   <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://www.raspberrypi.com" title="Raspberry Pi – SBC Platform"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
   <a href="https://ipfs.tech" title="IPFS – Distributed File System"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
