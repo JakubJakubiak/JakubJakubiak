@@ -27,8 +27,6 @@
 
 
 
-## 🧠 Tech Stack
-
 ### 🧰 Tools & Platforms
 <p align="center">
   <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
@@ -68,7 +66,9 @@
   <a href="https://firebase.google.com" title="Firebase – BaaS"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://www.mongodb.com" title="MongoDB – NoSQL Database"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://www.netlify.com" title="Netlify – Hosting & CI/CD"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="https://vercel.com" title="Vercel – Frontend Cloud Platform"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
+
 
 
 
