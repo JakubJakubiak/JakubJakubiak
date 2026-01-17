@@ -25,7 +25,11 @@
 <img align="left" alt="Flutter" width="26px" src="https://github.com/user-attachments/assets/1253ac20-c65c-4f24-adbf-6ac7c1e24cb1" />
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 <!--!
