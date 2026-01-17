@@ -44,7 +44,8 @@
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://pytorch.org" title="Pytorch"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
   <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://react.dev" title="Js"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" /></a>
