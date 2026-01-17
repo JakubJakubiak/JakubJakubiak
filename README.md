@@ -27,7 +27,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,raspberrypi,replit,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,,py,ts,nodejs,nextjs,flutter,electron" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,supabase,tauri,webstorm,vite,tailwind,netlify,mongodb,linux,ipfs,firebase,bevy" />
   </a>
 </p>
 
