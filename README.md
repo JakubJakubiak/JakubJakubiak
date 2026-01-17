@@ -9,7 +9,8 @@
 
 
 
-#### Top Technologies
+
+<h3 class="heading-element" dir="auto"><p align="center" dir="auto"> 🛠️ Technologies &amp; Tools</p></h3>
 
 <!-- ![![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#)[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 
@@ -26,7 +27,7 @@
 
 
 <p align="center">
-  <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://git-scm.com" title="Github – Version Control"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
   <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <!-- <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> -->
