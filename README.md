@@ -14,7 +14,7 @@
 <!-- ![![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#)[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -22,7 +22,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://github.com/user-attachments/assets/d66088da-47a7-43ea-86f5-0c04d75b9e0e" />
 
-<img align="left" alt="Flutter" width="26px" src="https://github.com/user-attachments/assets/1253ac20-c65c-4f24-adbf-6ac7c1e24cb1" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/user-attachments/assets/1253ac20-c65c-4f24-adbf-6ac7c1e24cb1" /> -->
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,,py,ts,nodejs,nextjs,flutter,electron" />
+    <img src="https://skillicons.dev/icons?i=react,py,ts,nodejs,nextjs,flutter,electron" />
   </a>
 </p>
 
