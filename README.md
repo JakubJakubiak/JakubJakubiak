@@ -27,24 +27,50 @@
 
 
 
+## 🧠 Tech Stack
+
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,bitbucket,docker,kubernetes,linux,raspberrypi,ipfs,replit,vscode,webstorm" />
+  <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
+  <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.raspberrypi.com" title="Raspberry Pi – SBC Platform"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+  <a href="https://ipfs.tech" title="IPFS – Distributed File System"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
+  <a href="https://replit.com" title="Replit – Cloud IDE"><img src="https://skillicons.dev/icons?i=replit" /></a>
+  <a href="https://code.visualstudio.com" title="VS Code – Code Editor"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
 </p>
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,flutter,electron,tauri,bevy" />
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://flutter.dev" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+  <a href="https://www.electronjs.org" title="Electron"><img src="https://skillicons.dev/icons?i=electron" /></a>
+  <a href="https://tauri.app" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" /></a>
+  <a href="https://bevyengine.org" title="Bevy Engine"><img src="https://skillicons.dev/icons?i=bevy" /></a>
 </p>
 
 ### 🎨 Frontend & Build Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,tailwind" />
+  <a href="https://vitejs.dev" title="Vite – Build Tool"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 </p>
 
 ### 🗄️ Backend, Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,netlify,vercel" />
+  <a href="https://supabase.com" title="Supabase – Backend as a Service"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="https://firebase.google.com" title="Firebase – BaaS"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.mongodb.com" title="MongoDB – NoSQL Database"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.netlify.com" title="Netlify – Hosting & CI/CD"><img src="https://skillicons.dev/icons?i=netlify" /></a>
 </p>
+
+
 
 <!-- 
 <p align="center">
