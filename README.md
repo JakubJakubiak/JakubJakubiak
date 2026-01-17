@@ -38,6 +38,8 @@
 }
 </style>
 
+<img src="https://skillicons.dev/icons?i=git&theme=dark&hover=true" />
+
 <p align="center" class="tech-icons">
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://bitbucket.org" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
