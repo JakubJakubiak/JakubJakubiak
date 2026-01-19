@@ -54,7 +54,7 @@
   <a href="https://tauri.app" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" /></a>
   <a href="https://bevyengine.org" title="Bevy Engine"><img src="https://skillicons.dev/icons?i=bevy" /></a>
   <a href="www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
-  <a href="https://cloud.google.com" title="=Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" /></a>
 </p>
 
 <p align="center">
