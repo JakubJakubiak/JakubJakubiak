@@ -53,6 +53,8 @@
   <a href="https://www.electronjs.org" title="Electron"><img src="https://skillicons.dev/icons?i=electron" /></a>
   <a href="https://tauri.app" title="Tauri"><img src="https://skillicons.dev/icons?i=tauri" /></a>
   <a href="https://bevyengine.org" title="Bevy Engine"><img src="https://skillicons.dev/icons?i=bevy" /></a>
+  <a href="www.cloudflare.com" title="Cloudflare Engine"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+  <a href="https://cloud.google.com" title="Gcp Engine"><img src="https://skillicons.dev/icons?i=gcp" /></a>
 </p>
 
 <p align="center">
