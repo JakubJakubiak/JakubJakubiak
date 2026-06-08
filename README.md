@@ -7,6 +7,20 @@
 </a></h1>
 
 
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
+  Full Stack Developer
+  <img src="https://cdn.simpleicons.org/react" width="16" alt="React" />
+  React |
+  📱 React Native |
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="16" alt="Node.js" />
+  Node.js |
+  <img src="https://cdn.simpleicons.org/flutter" width="16" alt="Flutter" />
+  Flutter |
+  <img src="https://cdn.simpleicons.org/python" width="16" alt="Python" />
+  Python |
+  🤖 AI
+</a>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
 
