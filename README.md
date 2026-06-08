@@ -9,7 +9,7 @@
   React |
   📱 React Native |
   <img src="https://cdn.simpleicons.org/nodedotjs" width="26" alt="Node.js" />
-  Node.js |</p>
+  </p>Node.js |
   <img src="https://cdn.simpleicons.org/flutter" width="26" alt="Flutter" />
   Flutter |
   <img src="https://cdn.simpleicons.org/python" width="26" alt="Python" />
