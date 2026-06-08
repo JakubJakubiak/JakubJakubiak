@@ -7,9 +7,9 @@
   Full Stack Developer
   <img src="https://cdn.simpleicons.org/react" width="26" alt="React" />
   React |
-  📱 React Native |
+  📱 React Native | </p>
   <img src="https://cdn.simpleicons.org/nodedotjs" width="26" alt="Node.js" />
-  </p>Node.js |
+  Node.js |
   <img src="https://cdn.simpleicons.org/flutter" width="26" alt="Flutter" />
   Flutter |
   <img src="https://cdn.simpleicons.org/python" width="26" alt="Python" />
