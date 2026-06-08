@@ -18,7 +18,7 @@
   🤖 AI
 </a>
 </a></h1>
-<a alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" />
+alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" />
 
 
 
