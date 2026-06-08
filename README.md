@@ -13,10 +13,13 @@
   <img src="https://cdn.simpleicons.org/flutter" width="26" alt="Flutter" />
   Flutter |
   <img src="https://cdn.simpleicons.org/python" width="26" alt="Python" />
-  Python |
+  Python | 
+  🦀 Rust |
   🤖 AI
 </a>
 </a></h1>
+![](https://komarev.com/ghpvc/?username=JakubJakubiak)
+![snake](https://raw.githubusercontent.com/JakubJakubiak/JakubJakubiak/output/github-contribution-grid-snake.svg)
 
 
 
