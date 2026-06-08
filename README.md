@@ -18,9 +18,9 @@
   🤖 AI
 </a>
 </a></h1>
-![](https://komarev.com/ghpvc/?username=JakubJakubiak)<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" />
+![](https://komarev.com/ghpvc/?username=JakubJakubiak)<img  alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" />
 
-![snake](https://raw.githubusercontent.com/JakubJakubiak/JakubJakubiak/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
