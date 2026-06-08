@@ -6,7 +6,7 @@
  <img src="https://cdn.simpleicons.org/nodedotjs" width="16" /> Node.js
 </a></h1>
 
-
+<h1>
 <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
   Full Stack Developer
   <img src="https://cdn.simpleicons.org/react" width="16" alt="React" />
@@ -19,7 +19,7 @@
   <img src="https://cdn.simpleicons.org/python" width="16" alt="Python" />
   Python |
   🤖 AI
-</a>
+</a></h1>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
