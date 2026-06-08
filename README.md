@@ -4,7 +4,7 @@
 <!-- <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Full Stack Developer ⚛️ React | 📱 React Native | 🟢 Node.js | </p> 🦋 Flutter | 🐍 Python | 🤖 AI </a> -->
 
   <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
-  Full Stack Developer
+  💻 Full Stack Developer
   <img src="https://cdn.simpleicons.org/react" width="26" alt="React" />
   React |
   📱 React Native | </p>
