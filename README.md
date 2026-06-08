@@ -1,8 +1,9 @@
 <!-- ### Hi there 👋 -->
 <h1>Hi, I'm Jakub  Programmer:<br/>
 <!-- <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Programmer</a>, -->
-<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Full Stack Developer ⚛️ React | 📱 React Native | 🟢 Node.js | </p> 🟦 Flutter | 🐍 Python | 🤖 AI </a>
- 
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">Full Stack Developer ⚛️ React | 📱 React Native | 🟢 Node.js | </p> 🦋 Flutter | 🐍 Python | 🤖 AI </a>
+ <img src="https://cdn.simpleicons.org/flutter" width="16" /> Flutter
+ <img src="https://cdn.simpleicons.org/nodedotjs" width="16" /> Node.js
 </a></h1>
 
 
