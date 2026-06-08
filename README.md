@@ -9,7 +9,8 @@
   React |
   📱 React Native | </p>
   <img src="https://cdn.simpleicons.org/nodedotjs" width="26" alt="Node.js" />
-  Node.js |
+  Node.js |<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
+
   <img src="https://cdn.simpleicons.org/flutter" width="26" alt="Flutter" />
   Flutter |
   <img src="https://cdn.simpleicons.org/python" width="26" alt="Python" />
@@ -18,7 +19,8 @@
   🤖 AI
 </a>
 </a></h1>
-alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" />
+![snake](https://raw.githubusercontent.com/JakubJakubiak/JakubJakubiak/output/github-contribution-grid-snake.svg)
+alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" 
 
 
 
