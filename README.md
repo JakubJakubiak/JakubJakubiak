@@ -9,7 +9,7 @@
   React |
   📱 React Native | </p>
   <img src="https://cdn.simpleicons.org/nodedotjs" width="26" alt="Node.js" />
-  Node.js |<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
+  Node.js |
 
   <img src="https://cdn.simpleicons.org/flutter" width="26" alt="Flutter" />
   Flutter |
@@ -23,7 +23,7 @@
 alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" 
 
 
-
+<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
