@@ -19,11 +19,10 @@
   🤖 AI
 </a>
 </a></h1>
-![snake](https://raw.githubusercontent.com/JakubJakubiak/JakubJakubiak/output/github-contribution-grid-snake.svg)
-alt="github-user-contribution" src="https://github.com/user-attachments/assets/f77133a7-91c9-4afd-829d-204c616aae56" 
 
 
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
+
+<img alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
