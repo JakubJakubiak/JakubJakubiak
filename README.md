@@ -52,32 +52,10 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 <p>
   <a href="https://www.python.org" title="Python – Programming Language"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> 
   <a href="https://www.typescriptlang.org" title="TypeScript – Typed JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript – Programming Language">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a> 🔗
-  <a href="https://dart.dev" title="Dart – Programming Language">
-    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-  </a> 🔗
-  <a href="https://www.rust-lang.org" title="Rust – Systems Programming Language">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-  </a> 🔗
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript – Programming Language"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> 
+  <a href="https://dart.dev" title="Dart – Programming Language"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://www.rust-lang.org" title="Rust – Systems Programming Language"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a></p>
 
-
-<p align="center">
-  <a href="https://git-scm.com" title="Github – Version Control"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://bitbucket.org" title="Bitbucket – Git Repository Hosting"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
-  <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <!-- <a href="https://kubernetes.io" title="Kubernetes – Container Orchestration"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> -->
-  <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.raspberrypi.com" title="Raspberry Pi – SBC Platform"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
-  <a href="https://www.apple.com" title="Apple"><img src="https://skillicons.dev/icons?i=apple" /></a>
-  <a href="https://ipfs.tech" title="IPFS – Distributed File System"><img src="https://skillicons.dev/icons?i=ipfs" /></a>
-  <a href="https://replit.com" title="Replit – Cloud IDE"><img src="https://skillicons.dev/icons?i=replit" /></a>
-  <a href="https://code.visualstudio.com" title="VS Code – Code Editor"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
-  <a href="https://developer.android.com/" title="Androidstudio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
-</p>
 
 
 ### 🎨 Frontend & Mobile
