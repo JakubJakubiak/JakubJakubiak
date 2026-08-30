@@ -226,8 +226,4 @@ AI / LLM                    █████████████████�
   <img src="https://img.shields.io/badge/💻%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:7C3AED" alt="Footer animation" />
-
 </div>
