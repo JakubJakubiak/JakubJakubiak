@@ -1,79 +1,200 @@
-# Jakub Jakubiak
+<div align="center">
 
-### Full Stack Software Engineer · Python · React · Node.js · AI · Infrastructure · IoT
+# 馃憢 Hi, I'm Jakub Jakubiak
 
-I build end-to-end software systems - from React / React Native interfaces and Python / Node.js backends to Dockerized production infrastructure, real-time IoT data pipelines and AI integrations.
+### 馃捇 Full Stack Software Engineer
+**Python 路 React 路 Node.js 路 React Native 路 Flutter 路 AI 路 IoT 路 Infrastructure**
 
-I work across application and infrastructure layers, including **MQTT, InfluxDB, Raspberry Pi, Linux, OVHcloud and multi-server data synchronization**.
+<a href="https://github.com/JakubJakubiak">
+  <img src="https://img.shields.io/github/followers/JakubJakubiak?style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://github.com/JakubJakubiak?tab=repositories">
+  <img src="https://img.shields.io/github/stars/JakubJakubiak?style=for-the-badge&logo=github&label=Stars" />
+</a>
+<a href="https://portfolio.inudev.pl">
+  <img src="https://img.shields.io/badge/Portfolio-inudev.pl-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Jakubiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## Core stack
+<br><br>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+full-stack+systems+from+frontend+to+infrastructure;Python+%7C+React+%7C+Node.js+%7C+AI;MQTT+%7C+InfluxDB+%7C+Docker+%7C+Linux;IoT+%7C+Raspberry+Pi+%7C+Real-time+data;Designing%2C+deploying+and+optimizing+production+systems" alt="Typing animation" />
 
-### Frontend / Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+</div>
 
-### Backend / Data
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+---
 
-### Infrastructure / IoT
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+## 馃鈥嶐煉?About Me
 
-### AI / Cloud / Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+I build complete software systems 鈥?from **frontend and mobile applications to backend services, databases and infrastructure**.
 
-## What I work on
+My strongest areas are:
 
-- Full-stack web applications with **React, Next.js, Python and Node.js**.
-- Backend automation, REST APIs and integrations with external services.
-- **MQTT + Raspberry Pi** real-time data collection and processing.
-- **InfluxDB** time-series workloads and query optimization.
-- Dockerized services running across **OVHcloud and physical Linux servers**.
-- Synchronization of data between **local and remote systems**.
-- AI-powered applications and integrations with LLM APIs.
+- **Full Stack Development** 鈥?React, Next.js, React Native, Node.js, Python
+- **Backend & APIs** 鈥?Python, Node.js, REST APIs, Firebase
+- **Infrastructure** 鈥?Docker, Linux, OVHcloud, VPS and physical servers
+- **IoT & real-time systems** 鈥?MQTT, Raspberry Pi, data synchronization
+- **Time-series data** 鈥?InfluxDB and performance-oriented query design
+- **AI integrations** 鈥?LLM APIs and AI-powered applications
+- **Automation** 鈥?backend automation, data processing and tooling
 
-## Selected projects
+I enjoy taking ownership of a system end-to-end: **architecture 鈫?implementation 鈫?deployment 鈫?optimization 鈫?maintenance**.
 
-### MyMultimind: Chat AI Bot
-Flutter application integrating AI APIs.
+---
 
-[Google Play](https://play.google.com/store/apps/details?id=com.night.multimindbot)
+## 鈿欙笍 Core Stack
 
-### Human or AI
-Flutter game using AI-generated video and Google Play Games for score tracking.
+### 馃殌 Languages
 
-[Google Play](https://play.google.com/store/apps/details?id=inu.night.humanAI)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,dart,rust" />
+</p>
 
-### AI Photo Style Application
-React application for AI-powered photo style transformation with Stripe, Google Login and Firebase.
+### 馃帹 Frontend & Mobile
 
-### Tinder Twitch
-Mobile application with Twitch authentication and a Node.js / Firebase backend.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,flutter" />
+</p>
 
-[Repository](https://github.com/JakubJakubiak/Tinder_Twitch)
+### 馃 Backend & AI
 
-### IoT / Time-Series Platform
-Real-time data platform built around **Python, MQTT, InfluxDB, Docker and Raspberry Pi**, with local/remote synchronization and multiple-server infrastructure.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,py,pytorch,firebase" />
+</p>
 
-## Links
+### 馃梽锔?Databases & Data
 
-- **GitHub:** https://github.com/JakubJakubiak
-- **Portfolio:** https://portfolio.inudev.pl
-- **LinkedIn:** https://www.linkedin.com/in/jakub-jakubiak-793213174/
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+**Also:** InfluxDB 路 SQL 路 Time-series data 路 REST APIs
+
+### 馃惓 Infrastructure & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,cloudflare,gcp,aws" />
+</p>
+
+**Also:** MQTT 路 OVHcloud 路 VPS 路 Physical servers 路 Server configuration 路 Real-time synchronization
+
+### 馃洜锔?Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,webstorm,androidstudio,pnpm" />
+</p>
+
+---
+
+## 馃敟 What I Work On
+
+```text
+Frontend
+  鈹溾攢鈹€ React
+  鈹溾攢鈹€ Next.js
+  鈹斺攢鈹€ React Native / Flutter
+
+Backend
+  鈹溾攢鈹€ Python
+  鈹溾攢鈹€ Node.js
+  鈹斺攢鈹€ REST APIs
+
+Data
+  鈹溾攢鈹€ PostgreSQL / MySQL
+  鈹溾攢鈹€ Firebase
+  鈹斺攢鈹€ InfluxDB
+
+Infrastructure
+  鈹溾攢鈹€ Docker
+  鈹溾攢鈹€ Linux
+  鈹溾攢鈹€ OVHcloud
+  鈹斺攢鈹€ Physical Servers
+
+IoT
+  鈹溾攢鈹€ MQTT
+  鈹溾攢鈹€ Raspberry Pi
+  鈹斺攢鈹€ Real-time data synchronization
+
+AI
+  鈹溾攢鈹€ LLM APIs
+  鈹溾攢鈹€ AI applications
+  鈹斺攢鈹€ Automation
+```
+
+---
+
+## 馃搳 Featured Project
+
+### 馃 Human or AI
+
+An AI-powered mobile application focused on identifying whether content was created by a human or AI.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JakubJakubiak/Programing_Story/main/png/Human_or_Ai_success.png" alt="Human or AI" width="773" />
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=inu.night.humanAI">
+    <img src="https://img.shields.io/badge/Google%20Play-View%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
+### 馃摫 Other Projects
+
+- **MyMultimind 鈥?Chat AI Bot**
+  - AI chat application
+  - Mobile application
+  - [Google Play](https://play.google.com/store/apps/details?id=com.night.multimindbot)
+
+- **Plant Identifier: AI Scanner**
+  - AI-based image recognition
+  - [Google Play](https://play.google.com/store/apps/details?id=com.inu.plantsai)
+
+- **Caption for Social Media AI**
+  - AI-assisted social media content generation
+  - [Google Play](https://play.google.com/store/apps/details?id=com.inu.hashtaggenerator)
+
+---
+
+## 馃搱 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JakubJakubiak&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 馃幆 Current Focus
+
+```text
+Full Stack Engineering     鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
+Python Backend              鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
+React / Next.js             鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
+Docker / Linux              鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒
+IoT / MQTT                  鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒鈻戔枒
+InfluxDB / Time Series      鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枒鈻戔枒
+AI / LLM                    鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒
+```
+
+---
+
+<div align="center">
+
+### 鈿?Build. Deploy. Optimize.
+
+<a href="https://portfolio.inudev.pl">
+  <img src="https://img.shields.io/badge/馃寪%20Portfolio-inudev.pl-111111?style=for-the-badge" />
+</a>
+<a href="https://github.com/JakubJakubiak">
+  <img src="https://img.shields.io/badge/馃捇%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:7C3AED" alt="Footer animation" />
+
+</div>
