@@ -49,7 +49,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 💻 Languages
 
-<p align="">
+<p >
   <a href="https://www.python.org" title="Python – Programming Language">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
