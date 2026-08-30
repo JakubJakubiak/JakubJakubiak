@@ -92,7 +92,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 🧠 Backend & AI
 
-<p align="center">
+<p align="">
   <a href="https://nodejs.org" title="Node.js – JavaScript Runtime">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
@@ -109,7 +109,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 🗄️ Databases & Data
 
-<p align="center">
+<p align="">
   <a href="https://www.postgresql.org" title="PostgreSQL – Relational Database">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
@@ -128,7 +128,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 🏗️ Infrastructure & IoT
 
-<p align="center">
+<p align="">
   <a href="https://www.docker.com" title="Docker – Containerization">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
@@ -153,7 +153,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 🛠️ Tools
 
-<p align="center">
+<p align="">
   <a href="https://github.com" title="GitHub – Code Hosting & Version Control">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
