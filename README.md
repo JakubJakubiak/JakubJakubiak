@@ -49,7 +49,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 💻 Languages
 
-<p align="center">
+<p align="">
   <a href="https://www.python.org" title="Python – Programming Language">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
@@ -69,7 +69,7 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 🎨 Frontend & Mobile
 
-<p align="center">
+<p align="">
   <a href="https://react.dev" title="React – Frontend Library">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
