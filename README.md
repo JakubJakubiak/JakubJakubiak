@@ -219,11 +219,7 @@ AI / LLM                    █████████████████�
 
 ### ⚡ Build. Deploy. Optimize.
 
-<a href="https://portfolio.inudev.pl">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-inudev.pl-111111?style=for-the-badge" />
-</a>
-<a href="https://github.com/JakubJakubiak">
-  <img src="https://img.shields.io/badge/💻%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://portfolio.inudev.pl"><img src="https://img.shields.io/badge/🌐%20Portfolio-inudev.pl-111111?style=for-the-badge" /></a>
+<a href="https://github.com/JakubJakubiak"><img src="https://img.shields.io/badge/💻%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" /></a>
 
 </div>
