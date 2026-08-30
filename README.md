@@ -164,6 +164,9 @@ An AI-powered mobile application focused on identifying whether content was crea
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakubJakubiak&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
+<img alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 </div>
 
 ---
