@@ -1,9 +1,10 @@
 <div align="center">
 
-# 馃憢 Hi, I'm Jakub Jakubiak
+# 👋 Hi, I'm Jakub Jakubiak
 
-### 馃捇 Full Stack Software Engineer
-**Python 路 React 路 Node.js 路 React Native 路 Flutter 路 AI 路 IoT 路 Infrastructure**
+### 👨‍💻 Full Stack Software Engineer
+
+**Python • React • Node.js • React Native • Flutter • AI • IoT • Infrastructure**
 
 <a href="https://github.com/JakubJakubiak">
   <img src="https://img.shields.io/github/followers/JakubJakubiak?style=for-the-badge&logo=github&label=Followers" />
@@ -26,108 +27,114 @@
 
 ---
 
-## 馃鈥嶐煉?About Me
+## 🧑‍💻 About Me
 
-I build complete software systems 鈥?from **frontend and mobile applications to backend services, databases and infrastructure**.
+I build complete software systems — from **frontend and mobile applications to backend services, databases and infrastructure**.
 
 My strongest areas are:
 
-- **Full Stack Development** 鈥?React, Next.js, React Native, Node.js, Python
-- **Backend & APIs** 鈥?Python, Node.js, REST APIs, Firebase
-- **Infrastructure** 鈥?Docker, Linux, OVHcloud, VPS and physical servers
-- **IoT & real-time systems** 鈥?MQTT, Raspberry Pi, data synchronization
-- **Time-series data** 鈥?InfluxDB and performance-oriented query design
-- **AI integrations** 鈥?LLM APIs and AI-powered applications
-- **Automation** 鈥?backend automation, data processing and tooling
+* **Full Stack Development** — React, Next.js, React Native, Node.js, Python
+* **Backend & APIs** — Python, Node.js, REST APIs, Firebase
+* **Infrastructure** — Docker, Linux, OVHcloud, VPS and physical servers
+* **IoT & real-time systems** — MQTT, Raspberry Pi, data synchronization
+* **Time-series data** — InfluxDB and performance-oriented query design
+* **AI integrations** — LLM APIs and AI-powered applications
+* **Automation** — backend automation, data processing and tooling
 
-I enjoy taking ownership of a system end-to-end: **architecture 鈫?implementation 鈫?deployment 鈫?optimization 鈫?maintenance**.
+I enjoy taking ownership of a system end-to-end: **architecture → implementation → deployment → optimization → maintenance**.
 
 ---
 
-## 鈿欙笍 Core Stack
+## ⚙️ Core Stack
 
-### 馃殌 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,dart,rust" />
 </p>
 
-### 馃帹 Frontend & Mobile
+### 🎨 Frontend & Mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,flutter" />
 </p>
 
-### 馃 Backend & AI
+### 🧠 Backend & AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,py,pytorch,firebase" />
 </p>
 
-### 馃梽锔?Databases & Data
+### 🗄️ Databases & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </p>
 
-**Also:** InfluxDB 路 SQL 路 Time-series data 路 REST APIs
+**Also:** InfluxDB • SQL • Time-series data • REST APIs
 
-### 馃惓 Infrastructure & IoT
+### 🏗️ Infrastructure & IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,raspberrypi,cloudflare,gcp,aws" />
 </p>
 
-**Also:** MQTT 路 OVHcloud 路 VPS 路 Physical servers 路 Server configuration 路 Real-time synchronization
+**Also:** MQTT • OVHcloud • VPS • Physical servers • Server configuration • Real-time synchronization
 
-### 馃洜锔?Tools
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,webstorm,androidstudio,pnpm" />
+  <a href="https://github.com" title="GitHub – Code Hosting & Version Control">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://git-scm.com" title="Git – Version Control">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,androidstudio,pnpm" />
 </p>
 
 ---
 
-## 馃敟 What I Work On
+## 🔧 What I Work On
 
 ```text
 Frontend
-  鈹溾攢鈹€ React
-  鈹溾攢鈹€ Next.js
-  鈹斺攢鈹€ React Native / Flutter
+  ├─ React
+  ├─ Next.js
+  └─ React Native / Flutter
 
 Backend
-  鈹溾攢鈹€ Python
-  鈹溾攢鈹€ Node.js
-  鈹斺攢鈹€ REST APIs
+  ├─ Python
+  ├─ Node.js
+  └─ REST APIs
 
 Data
-  鈹溾攢鈹€ PostgreSQL / MySQL
-  鈹溾攢鈹€ Firebase
-  鈹斺攢鈹€ InfluxDB
+  ├─ PostgreSQL / MySQL
+  ├─ Firebase
+  └─ InfluxDB
 
 Infrastructure
-  鈹溾攢鈹€ Docker
-  鈹溾攢鈹€ Linux
-  鈹溾攢鈹€ OVHcloud
-  鈹斺攢鈹€ Physical Servers
+  ├─ Docker
+  ├─ Linux
+  ├─ OVHcloud
+  └─ Physical Servers
 
 IoT
-  鈹溾攢鈹€ MQTT
-  鈹溾攢鈹€ Raspberry Pi
-  鈹斺攢鈹€ Real-time data synchronization
+  ├─ MQTT
+  ├─ Raspberry Pi
+  └─ Real-time data synchronization
 
 AI
-  鈹溾攢鈹€ LLM APIs
-  鈹溾攢鈹€ AI applications
-  鈹斺攢鈹€ Automation
+  ├─ LLM APIs
+  ├─ AI applications
+  └─ Automation
 ```
 
 ---
 
-## 馃搳 Featured Project
+## 📊 Featured Project
 
-### 馃 Human or AI
+### 🤖 Human or AI
 
 An AI-powered mobile application focused on identifying whether content was created by a human or AI.
 
@@ -141,59 +148,61 @@ An AI-powered mobile application focused on identifying whether content was crea
   </a>
 </p>
 
-### 馃摫 Other Projects
+### 📱 Other Projects
 
-- **MyMultimind 鈥?Chat AI Bot**
-  - AI chat application
-  - Mobile application
-  - [Google Play](https://play.google.com/store/apps/details?id=com.night.multimindbot)
+* **MyMultimind — Chat AI Bot**
 
-- **Plant Identifier: AI Scanner**
-  - AI-based image recognition
-  - [Google Play](https://play.google.com/store/apps/details?id=com.inu.plantsai)
+  * AI chat application
+  * Mobile application
+  * [Google Play](https://play.google.com/store/apps/details?id=com.night.multimindbot)
 
-- **Caption for Social Media AI**
-  - AI-assisted social media content generation
-  - [Google Play](https://play.google.com/store/apps/details?id=com.inu.hashtaggenerator)
+* **Plant Identifier: AI Scanner**
+
+  * AI-based image recognition
+  * [Google Play](https://play.google.com/store/apps/details?id=com.inu.plantsai)
+
+* **Caption for Social Media AI**
+
+  * AI-assisted social media content generation
+  * [Google Play](https://play.google.com/store/apps/details?id=com.inu.hashtaggenerator)
 
 ---
 
-## 馃搱 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
-
-
 
 <img alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
+
 </div>
 
 ---
 
-## 馃幆 Current Focus
+## 🎯 Current Focus
 
 ```text
-Full Stack Engineering     鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
-Python Backend              鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
-React / Next.js             鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅
-Docker / Linux              鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒
-IoT / MQTT                  鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒鈻戔枒
-InfluxDB / Time Series      鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枒鈻戔枒
-AI / LLM                    鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻堚枅鈻戔枒
+Full Stack Engineering     █████████████████████
+Python Backend              █████████████████████
+React / Next.js             █████████████████████
+Docker / Linux              ███████████████████░░
+IoT / MQTT                  ██████████████████░░░
+InfluxDB / Time Series      █████████████████░░░░
+AI / LLM                    █████████████████████
 ```
 
 ---
 
 <div align="center">
 
-### 鈿?Build. Deploy. Optimize.
+### ⚡ Build. Deploy. Optimize.
 
 <a href="https://portfolio.inudev.pl">
-  <img src="https://img.shields.io/badge/馃寪%20Portfolio-inudev.pl-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-inudev.pl-111111?style=for-the-badge" />
 </a>
 <a href="https://github.com/JakubJakubiak">
-  <img src="https://img.shields.io/badge/馃捇%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/💻%20GitHub-JakubJakubiak-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br><br>
