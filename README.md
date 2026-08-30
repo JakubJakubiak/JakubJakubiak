@@ -49,23 +49,24 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 
 ### 💻 Languages
 
-<p >
+<p>
   <a href="https://www.python.org" title="Python – Programming Language">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a> 🔗
   <a href="https://www.typescriptlang.org" title="TypeScript – Typed JavaScript">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a> 🔗
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript – Programming Language">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a> 🔗
   <a href="https://dart.dev" title="Dart – Programming Language">
-    <img src="https://skillicons.dev/icons?i=dart" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  </a> 🔗
   <a href="https://www.rust-lang.org" title="Rust – Systems Programming Language">
-    <img src="https://skillicons.dev/icons?i=rust" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+  </a> 🔗
 </p>
+
 
 ### 🎨 Frontend & Mobile
 
