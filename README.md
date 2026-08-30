@@ -50,12 +50,8 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 ### 💻 Languages
 
 <p>
-  <a href="https://www.python.org" title="Python – Programming Language">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-  </a> 🔗
-  <a href="https://www.typescriptlang.org" title="TypeScript – Typed JavaScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  </a> 🔗
+  <a href="https://www.python.org" title="Python – Programming Language"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> 
+  <a href="https://www.typescriptlang.org" title="TypeScript – Typed JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript – Programming Language">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a> 🔗
