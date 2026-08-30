@@ -61,58 +61,30 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 ### 🎨 Frontend & Mobile
 
 <p align="">
-  <a href="https://react.dev" title="React – Frontend Library">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nextjs.org" title="Next.js – React Framework">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-  <a href="https://redux.js.org" title="Redux – State Management">
-    <img src="https://skillicons.dev/icons?i=redux" />
-  </a>
-  <a href="https://tailwindcss.com" title="Tailwind CSS – Utility-First CSS Framework">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://vite.dev" title="Vite – Frontend Build Tool">
-    <img src="https://skillicons.dev/icons?i=vite" />
-  </a>
-  <a href="https://flutter.dev" title="Flutter – Cross-Platform UI Framework">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </a>
+  <a href="https://react.dev" title="React – Frontend Library"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org" title="Next.js – React Framework"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://redux.js.org" title="Redux – State Management"><img src="https://skillicons.dev/icons?i=redux" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS – Utility-First CSS Framework"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://vite.dev" title="Vite – Frontend Build Tool"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://flutter.dev" title="Flutter – Cross-Platform UI Framework"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 </p>
 
 ### 🧠 Backend & AI
 
 <p align="">
-  <a href="https://nodejs.org" title="Node.js – JavaScript Runtime">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://www.python.org" title="Python – Backend Development">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://pytorch.org" title="PyTorch – Machine Learning Framework">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
-  <a href="https://firebase.google.com" title="Firebase – Backend & Cloud Platform">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
+  <a href="https://nodejs.org" title="Node.js – JavaScript Runtime"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.python.org" title="Python – Backend Development"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://pytorch.org" title="PyTorch – Machine Learning Framework"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://firebase.google.com" title="Firebase – Backend & Cloud Platform"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
 
 ### 🗄️ Databases & Data
 
 <p align="">
-  <a href="https://www.postgresql.org" title="PostgreSQL – Relational Database">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://www.mysql.com" title="MySQL – Relational Database">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.mongodb.com" title="MongoDB – NoSQL Database">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://firebase.google.com" title="Firebase – Cloud Database & Backend">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
+  <a href="https://www.postgresql.org" title="PostgreSQL – Relational Database"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mysql.com" title="MySQL – Relational Database"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.mongodb.com" title="MongoDB – NoSQL Database"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://firebase.google.com" title="Firebase – Cloud Database & Backend"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
 
 **Also:** InfluxDB • SQL • Time-series data • REST APIs
@@ -120,24 +92,12 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 ### 🏗️ Infrastructure & IoT
 
 <p align="">
-  <a href="https://www.docker.com" title="Docker – Containerization">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://www.linux.org" title="Linux – Operating System">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://www.raspberrypi.com" title="Raspberry Pi – Single-Board Computer">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" />
-  </a>
-  <a href="https://www.cloudflare.com" title="Cloudflare – Web Infrastructure & Security">
-    <img src="https://skillicons.dev/icons?i=cloudflare" />
-  </a>
-  <a href="https://cloud.google.com" title="Google Cloud – Cloud Platform">
-    <img src="https://skillicons.dev/icons?i=gcp" />
-  </a>
-  <a href="https://aws.amazon.com" title="AWS – Cloud Platform">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
+  <a href="https://www.docker.com" title="Docker – Containerization"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://www.linux.org" title="Linux – Operating System"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.raspberrypi.com" title="Raspberry Pi – Single-Board Computer"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+  <a href="https://www.cloudflare.com" title="Cloudflare – Web Infrastructure & Security"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+  <a href="https://cloud.google.com" title="Google Cloud – Cloud Platform"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://aws.amazon.com" title="AWS – Cloud Platform"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </p>
 
 **Also:** MQTT • OVHcloud • VPS • Physical servers • Server configuration • Real-time synchronization
@@ -145,24 +105,12 @@ I enjoy taking ownership of a system end-to-end: **architecture → implementati
 ### 🛠️ Tools
 
 <p align="">
-  <a href="https://github.com" title="GitHub – Code Hosting & Version Control">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://git-scm.com" title="Git – Version Control">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://code.visualstudio.com" title="Visual Studio Code – Code Editor">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE">
-    <img src="https://skillicons.dev/icons?i=webstorm" />
-  </a>
-  <a href="https://developer.android.com/studio" title="Android Studio – Android IDE">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
-  </a>
-  <a href="https://pnpm.io" title="pnpm – Fast JavaScript Package Manager">
-    <img src="https://skillicons.dev/icons?i=pnpm" />
-  </a>
+  <a href="https://github.com" title="GitHub – Code Hosting & Version Control"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://git-scm.com" title="Git – Version Control"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://code.visualstudio.com" title="Visual Studio Code – Code Editor"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/webstorm" title="WebStorm – JetBrains IDE"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+  <a href="https://developer.android.com/studio" title="Android Studio – Android IDE"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+  <a href="https://pnpm.io" title="pnpm – Fast JavaScript Package Manager"><img src="https://skillicons.dev/icons?i=pnpm" /></a>
 </p>
 
 ---
