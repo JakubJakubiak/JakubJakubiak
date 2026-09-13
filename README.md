@@ -12,7 +12,7 @@
 <a href="https://github.com/JakubJakubiak?tab=repositories">
   <img src="https://img.shields.io/github/stars/JakubJakubiak?style=for-the-badge&logo=github&label=Stars" />
 </a>
-<a href="https://portfolio.inudev.pl">
+<a href="https://jakubjakubiak.com">
   <img src="https://img.shields.io/badge/Portfolio-inudev.pl-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
