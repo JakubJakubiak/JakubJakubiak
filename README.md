@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/stars/JakubJakubiak?style=for-the-badge&logo=github&label=Stars" />
 </a>
 <a href="https://jakubjakubiak.com">
-  <img src="https://img.shields.io/badge/https://jakubjakubiak.com-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/jakubjakubiak.com-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
   <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Jakubiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
