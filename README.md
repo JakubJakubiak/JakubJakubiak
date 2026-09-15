@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Jakub Jakubiak
 
 ### 👨‍💻 Full Stack Software Engineer
+### Python Backend / Full Stack Engineer — IoT, Distributed Systems, Infrastructure & AI
 
 **Python • React • Node.js • React Native • Flutter • AI • IoT • Infrastructure**
 
