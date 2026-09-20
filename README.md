@@ -7,18 +7,10 @@
 
 **Python • React • Node.js • React Native • Flutter • AI • IoT • Infrastructure**
 
-<a href="https://github.com/JakubJakubiak">
-  <img src="https://img.shields.io/github/followers/JakubJakubiak?style=for-the-badge&logo=github&label=Followers" />
-</a>
-<a href="https://github.com/JakubJakubiak?tab=repositories">
-  <img src="https://img.shields.io/github/stars/JakubJakubiak?style=for-the-badge&logo=github&label=Stars" />
-</a>
-<a href="https://jakubjakubiak.com">
-  <img src="https://img.shields.io/badge/jakubjakubiak.com-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Jakubiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/JakubJakubiak"><img src="https://img.shields.io/github/followers/JakubJakubiak?style=for-the-badge&logo=github&label=Followers" /></a>
+<a href="https://github.com/JakubJakubiak?tab=repositories"><img src="https://img.shields.io/github/stars/JakubJakubiak?style=for-the-badge&logo=github&label=Stars" /></a>
+<a href="https://jakubjakubiak.com"><img src="https://img.shields.io/badge/jakubjakubiak.com-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jakub-jakubiak-793213174/"><img src="https://img.shields.io/badge/LinkedIn-Jakub%20Jakubiak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
 
