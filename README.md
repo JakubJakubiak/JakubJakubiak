@@ -3,8 +3,7 @@
 # 👋 Hi, I'm Jakub Jakubiak
 
 ### 👨‍💻 Full Stack Software Engineer
-### Python Backend / Full Stack Engineer — IoT, Distributed Systems, Infrastructure & AI
-
+### Backend & Full Stack Engineer — Python, Rust, IoT, Distributed Systems, Infrastructure & AI
 **Python • React • Node.js • React Native • Flutter • AI • IoT • Infrastructure**
 
 <a href="https://github.com/JakubJakubiak"><img src="https://img.shields.io/github/followers/JakubJakubiak?style=for-the-badge&logo=github&label=Followers" /></a>
