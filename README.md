@@ -191,6 +191,22 @@ An AI-powered mobile application focused on identifying whether content was crea
   <img alt="3D contribution graph" src="./profile-3d-contrib/profile-light.svg" />
 </picture>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JakubJakubiak&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JakubJakubiak&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=FFFFFF&stroke=D0D7DE&currStreakNum=0D1117&sideNums=0D1117&sideLabels=57606A&dates=57606A&ring=0077B6&fire=0077B6&currStreakLabel=0077B6" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=JakubJakubiak&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=FFFFFF" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="./snake/snake-light.svg" />
+</picture>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
 </div>

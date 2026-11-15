@@ -1,4 +1,4 @@
-name: 3D contribution graph
+name: Profile graphs (3D + snake)
 
 on:
   schedule:
@@ -20,10 +20,17 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
 
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/snake-light.svg?color_snake=#0077b6&color_dots=#eaf6fb,#90e0ef,#48cae4,#00b4d8,#0077b6
+            snake/snake-dark.svg?palette=github-dark&color_snake=#00d9ff&color_dots=#161b22,#0a3d4d,#0b6c85,#00a5c4,#00d9ff
+
       - name: Commit graph
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
+          git add -A profile-3d-contrib snake
           git diff --staged --quiet || git commit -m "Update 3D contribution graph"
           git push
