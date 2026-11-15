@@ -14,7 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+      # the action shows only the top 5 languages (hard-coded) — run the same version with the limit raised to 6
+      - uses: actions/checkout@v4
+        with:
+          repository: yoshi389111/github-profile-3d-contrib
+          ref: v0.9.3
+          path: .p3d
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: 3D contribution graph (top 6 languages)
+        run: |
+          grep -q 'contributesLanguage.slice(0, 5)' .p3d/dist/index.js
+          sed -i 's/contributesLanguage.slice(0, 5)/contributesLanguage.slice(0, 6)/' .p3d/dist/index.js
+          node .p3d/dist/index.js
+          rm -rf .p3d
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
