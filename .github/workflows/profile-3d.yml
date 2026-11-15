@@ -2,7 +2,7 @@ name: Profile graphs (3D + snake)
 
 on:
   schedule:
-    - cron: "0 3 * * *" # every day at 03:00 UTC
+    - cron: "17 */6 * * *" # every 6 hours
   workflow_dispatch: # manual run from the Actions tab
 
 permissions:
