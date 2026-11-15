@@ -185,7 +185,11 @@ An AI-powered mobile application focused on identifying whether content was crea
 
 <div align="center">
 
-<img alt="github-user-contribution" src="https://github.com/user-attachments/assets/765ac2c7-017c-47b0-b9a0-be9ae5ab1477" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-light.svg" />
+</picture>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JakubJakubiak)-->
 
